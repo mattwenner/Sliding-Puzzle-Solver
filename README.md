@@ -13,7 +13,7 @@ will generate a 4x4 sliding puzzle which is scrambled by 20 moves, seeded by 177
 
 Entering 0 for the heuristic will use Breadth First Search heuristic.
 
-Entering 1 for the heuristic will use an "out of place" heuristic that checks the number of tiles that are our of place.
+Entering 1 for the heuristic will use an "out of place" heuristic that checks the number of tiles that are out of place.
 
 Entering 2 for the heuristic will use the Manhattan Distance of each tile from its intended location as a heuristic.
 
